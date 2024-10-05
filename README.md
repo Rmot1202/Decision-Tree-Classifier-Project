@@ -34,6 +34,6 @@ The decision tree model was developed to analyze data collected from **MoNA** an
 
 #### Contributors:
 - **Raven Mott**: Developed the machine learning model for neutron interaction classification, including data preprocessing and decision tree implementation. Contributed to integrating the model into the **MoNA** analysis software pipeline.
-- **Dr Thomas Redpath**:PI
+- **Dr. Thomas Redpath**:PI
 - **Facility for Rare Isotope Beams (FRIB)**
 
